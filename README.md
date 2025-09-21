@@ -16,6 +16,8 @@ Main Results
 ## Weather and visibility
  - 62% of strikes happen during the day and 30% happen at night. 
  - Most strikes happen when the weather is clear (95%).
+## Dashboard 1
+![Dashboard Screenshot](https://github.com/MohammedHewady/Excel-Aircraft-Wildlife-Analysis/blob/main/dashboard%201.jpg?raw=true)
 ## Effect on Aircraft
  - Affected parts: windshield, engines, nose, and fuselage
  - 6,145 cautious landings and 2,352 aborted takeoffs
@@ -27,6 +29,7 @@ Main Results
  - Strikes generally come from unidentified birds, gulls, doves, sparrows, and pigeons
 ## Engine Effects
  - Engine number 2 was affected in 84.93% of engine-related incidents.
+## Dashboard 2
 
 ## In conclusion
  - Wildlife strikes are a big danger to aviation safety, especially when aircraft are getting ready to land or take off. Most of them happen during the day and in excellent weather, but they still pose a major threat to engines and windshields.
