@@ -30,7 +30,7 @@ Main Results
 ## Engine Effects
  - Engine number 2 was affected in 84.93% of engine-related incidents.
 ## Dashboard 2
-
+![Dashboard Screenshot](https://github.com/MohammedHewady/Excel-Aircraft-Wildlife-Analysis/blob/main/Dashboard%202.jpg?raw=true)
 ## In conclusion
  - Wildlife strikes are a big danger to aviation safety, especially when aircraft are getting ready to land or take off. Most of them happen during the day and in excellent weather, but they still pose a major threat to engines and windshields.
 ## Suggestions
