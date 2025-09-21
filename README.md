@@ -1,5 +1,5 @@
-# Excel-Aircraft-Wildlife-Analysis
-Aircraft Wildlife Strikes Analysis from 1990 to 2015 Using Excel
+# ✈️ Excel Aircraft Wildlife Strikes Analysis (1990–2015)
+## 📌 Project Overview
 This project is my first data analysis project, and I used professional methods for cleaning, modeling, and visualizing the data. The data set was obtained from the Federal Aviation Administration (FAA), which has 174,104 records and 66 attributes. Excel Power Query (for cleaning), Power Pivot (for modeling), and Excel visualization (for dashboards) were used to process the data.
 
 **Main Results**
