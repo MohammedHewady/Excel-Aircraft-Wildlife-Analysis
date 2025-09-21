@@ -16,11 +16,11 @@ This project is my first data analysis project, and I used professional methods 
 ## Weather and visibility
  - 62% of strikes happen during the day and 30% happen at night. 
  - Most strikes happen when the weather is clear (95%).
-## Dashboard 1
-![Dashboard Screenshot](https://github.com/MohammedHewady/Excel-Aircraft-Wildlife-Analysis/blob/main/dashboard%201.jpg?raw=true)
 ## Effect on Aircraft
  - Affected parts: windshield, engines, nose, and fuselage
  - 6,145 cautious landings and 2,352 aborted takeoffs
+## Dashboard 1
+![Dashboard Screenshot](https://github.com/MohammedHewady/Excel-Aircraft-Wildlife-Analysis/blob/main/dashboard%201.jpg?raw=true)
 ## Airports and Airlines
  - Top airports are Denver (17.24%), Dallas/Fort Worth (15.32%), and Chicago O'Hare (12.58%).
  - Wide range of airlines involved
